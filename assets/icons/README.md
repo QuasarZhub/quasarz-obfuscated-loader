@@ -1,6 +1,6 @@
 # QuasarZ navigation icons
 
-Custom 128x128 transparent PNG icons for the QuasarZ WindUI sidebar. Version 2 uses bold, full-canvas silhouettes designed for the live 24px navigation frame.
+Custom 128x128 transparent PNG icons for the QuasarZ WindUI sidebar. Version 3 uses bold, full-canvas silhouettes designed for the live 24px navigation frame and cache-busted `qz-bold-*` filenames.
 
 | Category | Color | Icons |
 | --- | --- | --- |
@@ -10,6 +10,6 @@ Custom 128x128 transparent PNG icons for the QuasarZ WindUI sidebar. Version 2 u
 
 The runtime loads each PNG directly from:
 
-`https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v2/`
+`https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v3/`
 
 Run `python tools/build_quasarz_icons.py` from the QuasarZ project to regenerate the PNG set, SHA-256 manifest, and preview sheet.
