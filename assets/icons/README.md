@@ -5,7 +5,7 @@ Custom 128x128 transparent PNG icons for the QuasarZ WindUI sidebar. Version 3 u
 | Category | Color | Icons |
 | --- | --- | --- |
 | Home | `#38BDF8` | category, Home, Settings |
-| Shop | `#FBBF24` | category, Seed, Gear |
+| Shop | `#FBBF24` | category, Seed, Gear, Pets |
 | Farming | `#4ADE80` | category, Plant, Event Seeds, Sprinkler, Harvest, Auto-Sell, Auto-Steal |
 
 The runtime loads each PNG directly from:

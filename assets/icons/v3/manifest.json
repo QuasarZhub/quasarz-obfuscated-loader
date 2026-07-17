@@ -66,6 +66,15 @@
       "sha256": "5ff57c2956ddaabe91a48eae2c6ba23c296e13bf0238a30941cea1d474712af9"
     },
     {
+      "name": "pets",
+      "label": "Pets",
+      "category": "shop",
+      "color": "#FBBF24",
+      "file": "qz-bold-pets.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v3/qz-bold-pets.png",
+      "sha256": "7b1aac1d10861956436c9d4f3c761fc12a2d37d518c155e311cd12809e09264b"
+    },
+    {
       "name": "farming-category",
       "label": "Farming category",
       "category": "farming",
