@@ -1,0 +1,132 @@
+{
+  "version": 2,
+  "size": [
+    128,
+    128
+  ],
+  "raw_base_url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v2/",
+  "palette": {
+    "home": "#38BDF8",
+    "shop": "#FBBF24",
+    "farming": "#4ADE80"
+  },
+  "icons": [
+    {
+      "name": "home-category",
+      "label": "Home category",
+      "category": "home",
+      "color": "#38BDF8",
+      "file": "home-category.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v2/home-category.png",
+      "sha256": "5c08a46f8315abcf1171ed44c03dea27ad0ee353c5ba739f314a2fbd02612bf6"
+    },
+    {
+      "name": "home",
+      "label": "Home",
+      "category": "home",
+      "color": "#38BDF8",
+      "file": "home.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v2/home.png",
+      "sha256": "fb48cb08304d8cc8f223a38db0ecf03a0171a340736b9987d6076849ff10daf2"
+    },
+    {
+      "name": "settings",
+      "label": "Settings",
+      "category": "home",
+      "color": "#38BDF8",
+      "file": "settings.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v2/settings.png",
+      "sha256": "a10add96792017458f0dd6984e40a96e397eb87cba278d24d9ac5a1d01aefabf"
+    },
+    {
+      "name": "shop-category",
+      "label": "Shop category",
+      "category": "shop",
+      "color": "#FBBF24",
+      "file": "shop-category.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v2/shop-category.png",
+      "sha256": "665a2b21a2e817d993512a64b2b841be093ab75c05226a3ab00e42eee357df82"
+    },
+    {
+      "name": "seed",
+      "label": "Seed",
+      "category": "shop",
+      "color": "#FBBF24",
+      "file": "seed.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v2/seed.png",
+      "sha256": "43a2572ae5debc690bd807aa40b599fb6f8a3fd7126bc08c2ef698761c0cfbcf"
+    },
+    {
+      "name": "gear",
+      "label": "Gear",
+      "category": "shop",
+      "color": "#FBBF24",
+      "file": "gear.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v2/gear.png",
+      "sha256": "5ff57c2956ddaabe91a48eae2c6ba23c296e13bf0238a30941cea1d474712af9"
+    },
+    {
+      "name": "farming-category",
+      "label": "Farming category",
+      "category": "farming",
+      "color": "#4ADE80",
+      "file": "farming-category.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v2/farming-category.png",
+      "sha256": "53448351d5a774a0d1e18cf8e7a63ea3200ac62834c8bf5f40ebf67fda218b59"
+    },
+    {
+      "name": "plant",
+      "label": "Plant",
+      "category": "farming",
+      "color": "#4ADE80",
+      "file": "plant.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v2/plant.png",
+      "sha256": "f758395c3bef757e996349c8041cd94e23bb4fb064ceda719c1b0ea1cca5e8fb"
+    },
+    {
+      "name": "event-seeds",
+      "label": "Event Seeds",
+      "category": "farming",
+      "color": "#4ADE80",
+      "file": "event-seeds.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v2/event-seeds.png",
+      "sha256": "6f536d6eef1c1e482740b1538f7728925878cd90a2c6e1a5d93f16c66492297a"
+    },
+    {
+      "name": "sprinkler",
+      "label": "Sprinkler",
+      "category": "farming",
+      "color": "#4ADE80",
+      "file": "sprinkler.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v2/sprinkler.png",
+      "sha256": "4ea5253dd418d3ab40c5f655029f7265245bb7a0f0cf9abe90733ce0990e8083"
+    },
+    {
+      "name": "harvest",
+      "label": "Harvest",
+      "category": "farming",
+      "color": "#4ADE80",
+      "file": "harvest.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v2/harvest.png",
+      "sha256": "d92a147731a6f289bc5a819108d441631be17d188ae1939285ef718334b2ffcd"
+    },
+    {
+      "name": "auto-sell",
+      "label": "Auto-Sell",
+      "category": "farming",
+      "color": "#4ADE80",
+      "file": "auto-sell.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v2/auto-sell.png",
+      "sha256": "ad58586f39fb3a32e72c043025764ed53e38bdef805090203ca0db87843faf30"
+    },
+    {
+      "name": "auto-steal",
+      "label": "Auto-Steal",
+      "category": "farming",
+      "color": "#4ADE80",
+      "file": "auto-steal.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v2/auto-steal.png",
+      "sha256": "16d4dd44fd8ba781d3e842e30c357741e5ff7dcab7fda986a0c97fd368ee7f08"
+    }
+  ]
+}
