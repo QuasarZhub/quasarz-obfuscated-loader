@@ -1,1 +1,1 @@
-# quasarz-obfuscated-loader
+# quasarz-loader
