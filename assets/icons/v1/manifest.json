@@ -4,7 +4,7 @@
     128,
     128
   ],
-  "raw_base_url": "https://raw.githubusercontent.com/OsmiumGoated/quasarz-obfuscated-loader/main/assets/icons/v1/",
+  "raw_base_url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v1/",
   "palette": {
     "home": "#38BDF8",
     "shop": "#FBBF24",
@@ -17,7 +17,7 @@
       "category": "home",
       "color": "#38BDF8",
       "file": "home-category.png",
-      "url": "https://raw.githubusercontent.com/OsmiumGoated/quasarz-obfuscated-loader/main/assets/icons/v1/home-category.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v1/home-category.png",
       "sha256": "1d7d0c33753ea35e7b2112e55cbb596bfa3e3a1aad0552acad4796954d0c1775"
     },
     {
@@ -26,7 +26,7 @@
       "category": "home",
       "color": "#38BDF8",
       "file": "home.png",
-      "url": "https://raw.githubusercontent.com/OsmiumGoated/quasarz-obfuscated-loader/main/assets/icons/v1/home.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v1/home.png",
       "sha256": "2cc872592e1b8d6c1e0bb974abcdc696bd0a6fdf2e9e6c8ade81779709ac2378"
     },
     {
@@ -35,7 +35,7 @@
       "category": "home",
       "color": "#38BDF8",
       "file": "settings.png",
-      "url": "https://raw.githubusercontent.com/OsmiumGoated/quasarz-obfuscated-loader/main/assets/icons/v1/settings.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v1/settings.png",
       "sha256": "b15b8f2f2b24a5a2db0d9e0d8acc4ca5e669d44f5792cf7147c45a58297759cd"
     },
     {
@@ -44,7 +44,7 @@
       "category": "shop",
       "color": "#FBBF24",
       "file": "shop-category.png",
-      "url": "https://raw.githubusercontent.com/OsmiumGoated/quasarz-obfuscated-loader/main/assets/icons/v1/shop-category.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v1/shop-category.png",
       "sha256": "0bd979d717998bc688bd81ef80090b36473da92d891de2a8163363486042c095"
     },
     {
@@ -53,7 +53,7 @@
       "category": "shop",
       "color": "#FBBF24",
       "file": "seed.png",
-      "url": "https://raw.githubusercontent.com/OsmiumGoated/quasarz-obfuscated-loader/main/assets/icons/v1/seed.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v1/seed.png",
       "sha256": "2c3b743dd71fee3f3788b8cdd38f5e2044cdbab6446ebdfdb493c1be70a0e7c9"
     },
     {
@@ -62,7 +62,7 @@
       "category": "shop",
       "color": "#FBBF24",
       "file": "gear.png",
-      "url": "https://raw.githubusercontent.com/OsmiumGoated/quasarz-obfuscated-loader/main/assets/icons/v1/gear.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v1/gear.png",
       "sha256": "9344d4fc1abdaf41b811d84a7cc6b9baaac4adef414018eafac34ce504d276bb"
     },
     {
@@ -71,7 +71,7 @@
       "category": "farming",
       "color": "#4ADE80",
       "file": "farming-category.png",
-      "url": "https://raw.githubusercontent.com/OsmiumGoated/quasarz-obfuscated-loader/main/assets/icons/v1/farming-category.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v1/farming-category.png",
       "sha256": "eab55396740254a468fc280a742c76319ebb9485dffae13bef596cf826c63838"
     },
     {
@@ -80,7 +80,7 @@
       "category": "farming",
       "color": "#4ADE80",
       "file": "plant.png",
-      "url": "https://raw.githubusercontent.com/OsmiumGoated/quasarz-obfuscated-loader/main/assets/icons/v1/plant.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v1/plant.png",
       "sha256": "396229863f594788338484fa40fbdf3d55090b89556bdb66623615fb38bc4a10"
     },
     {
@@ -89,7 +89,7 @@
       "category": "farming",
       "color": "#4ADE80",
       "file": "event-seeds.png",
-      "url": "https://raw.githubusercontent.com/OsmiumGoated/quasarz-obfuscated-loader/main/assets/icons/v1/event-seeds.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v1/event-seeds.png",
       "sha256": "428e57c5b40acfd2051157e5f03c519253b4d724e1072b9b2fae32abdfb229d6"
     },
     {
@@ -98,7 +98,7 @@
       "category": "farming",
       "color": "#4ADE80",
       "file": "sprinkler.png",
-      "url": "https://raw.githubusercontent.com/OsmiumGoated/quasarz-obfuscated-loader/main/assets/icons/v1/sprinkler.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v1/sprinkler.png",
       "sha256": "2435e9b9f8af1551cd63dd19c16818cb29909141d0558d04489b758793589c82"
     },
     {
@@ -107,7 +107,7 @@
       "category": "farming",
       "color": "#4ADE80",
       "file": "harvest.png",
-      "url": "https://raw.githubusercontent.com/OsmiumGoated/quasarz-obfuscated-loader/main/assets/icons/v1/harvest.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v1/harvest.png",
       "sha256": "4b82fb889240810aa984d53d4525a1ff2b2aff70b8a88e10082d0dd2101cecb0"
     },
     {
@@ -116,7 +116,7 @@
       "category": "farming",
       "color": "#4ADE80",
       "file": "auto-sell.png",
-      "url": "https://raw.githubusercontent.com/OsmiumGoated/quasarz-obfuscated-loader/main/assets/icons/v1/auto-sell.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v1/auto-sell.png",
       "sha256": "4843716e491559f234e0158db54998130f6c03a263d9ad89295fe1ae9a681d7f"
     },
     {
@@ -125,7 +125,7 @@
       "category": "farming",
       "color": "#4ADE80",
       "file": "auto-steal.png",
-      "url": "https://raw.githubusercontent.com/OsmiumGoated/quasarz-obfuscated-loader/main/assets/icons/v1/auto-steal.png",
+      "url": "https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v1/auto-steal.png",
       "sha256": "d435de6cffff6e2f45f0ff1640a618412db4ab00d1c68d5b0cd1d2ac8b211bcb"
     }
   ]

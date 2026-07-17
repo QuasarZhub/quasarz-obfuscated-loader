@@ -10,6 +10,6 @@ Custom 128x128 transparent PNG icons for the QuasarZ WindUI sidebar.
 
 The runtime loads each PNG directly from:
 
-`https://raw.githubusercontent.com/OsmiumGoated/quasarz-obfuscated-loader/main/assets/icons/v1/`
+`https://raw.githubusercontent.com/QuasarZhub/quasarz-obfuscated-loader/main/assets/icons/v1/`
 
 Run `python tools/build_quasarz_icons.py` from the QuasarZ project to regenerate the PNG set, SHA-256 manifest, and preview sheet.
